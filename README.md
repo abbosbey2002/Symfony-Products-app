@@ -31,13 +31,7 @@ cp .env.example .env
 docker-compose up -d --build
 ```
 
-4. Symfony servisini ishga tushiring:
-
-```bash
-docker-compose exec php symfony serve -d
-```
-
-Yoki agar sizda `symfony` CLI o‘rnatilmagan bo‘lsa, Symfony server quyidagi manzilda mavjud bo‘ladi:
+4. Symfony server quyidagi manzilda mavjud bo‘ladi:
 
 ```bash
 http://localhost:8000
