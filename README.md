@@ -1,8 +1,3 @@
-Albatta! Quyida Symfony framework va Docker asosida yaratilgan loyiha uchun `README.md` fayli uchun namunaviy hujjat keltirilgan. Bu hujjat loyiha qanday ishga tushirilishini tushuntiradi:
-
----
-
-````markdown
 # Symfony Docker Loyiha
 
 Bu loyiha [Symfony](https://symfony.com/) PHP frameworki va [Docker](https://www.docker.com/) konteyner texnologiyasi asosida ishlab chiqilgan. Docker yordamida loyihani tez va oson ishga tushirishingiz mumkin.
