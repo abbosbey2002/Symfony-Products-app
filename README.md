@@ -15,8 +15,8 @@ Quyidagi dasturlar kompyuteringizda o‘rnatilgan bo‘lishi kerak:
 1. Repozitoriyani klonlang:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone https://github.com/abbosbey2002/Symfony-Products-app.git
+cd Symfony-Products-app
 ````
 
 2. `.env` faylini sozlang (agar kerak bo‘lsa):
